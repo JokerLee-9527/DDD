@@ -20,7 +20,7 @@
 
 #### 技术栈:
 
-1.第一阶段: springboot(Jpa)、dubbo、mysql、zk、RocketMQ、ELK、Kafka   (进行中)
+1.第一阶段: springboot(Jpa)、dubbo、mysql、zk、RocketMQ、ELK、Kafka、mongodb   (进行中)
 
 2.第二阶段:分库分表ShardingJdbc   (未开始)
 
