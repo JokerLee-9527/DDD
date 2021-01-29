@@ -2,13 +2,17 @@
 
 ---
 
-学习DDD是有一定难度的，特别是第一次接触的，如何进行战略和战术如何结合。 
+学习DDD是有一定难度的，特别是第一次接触，如何进行战略和战术如何结合？很多人都会有这样的疑问.
 
-首先想整理一下DDD的知识点，然后同组工程构建一个DDD开发的Demo。水平有限， 有什么不好的地方,期望不吝赐教（lijian79@gmail.com）
+
+
+这里,首先想整理一下DDD的知识点，然后通过一组工程构建一个DDD开发的Demo。水平有限， 有什么不好的地方,期望不吝赐教（lijian79@gmail.com）
+
+
 
 ## 笔记整理(进行中)
 
-
+下载 [DDD/StudyNotes at main · JokerLee-9527/DDD · GitHub](https://github.com/JokerLee-9527/DDD/tree/main/StudyNotes)  中的html或者mmap文件.
 
 
 
@@ -27,14 +31,18 @@
 #### 项目介绍:
 
 1. DockerSupport项目 (方便启动项目)  (进行中)
+   
+   [JokerLee-9527/DDD-DockerSupport · GitHub](https://github.com/JokerLee-9527/DDD-DockerSupport)
 
-2. Liqubase项目(mysql数据库定义)   (未开始)
+2. 
 
-3. 前台项目   (未开始)
+3. Liqubase项目(mysql数据库定义)   (未开始)
 
-4. 中台项目  (未开始)
+4. 前台项目   (未开始)
 
-5. 后台项目  (未开始)
+5. 中台项目  (未开始)
+
+6. 后台项目  (未开始)
    
    会员后台  (未开始)
    
@@ -54,8 +62,6 @@
 在实际中，有些具体的实现会把中台向上合并到前台，或者向下合并到后台。
 个人觉得大型系统如果要合并，向上合并到前台比较合适，可以保证数据的稳定。
 当然这些都是仁者见仁智者见智。
-
-
 
 ## 感谢
 
