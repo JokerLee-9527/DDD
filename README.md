@@ -30,7 +30,7 @@
 
 #### 项目介绍:
 
-1. DockerSupport项目 (启动项目)  (进行中)
+1. DockerSupport项目 (提供基础层服务)  (进行中)
    
    [JokerLee-9527/DDD-DockerSupport · GitHub](https://github.com/JokerLee-9527/DDD-DockerSupport)
 
